@@ -1,0 +1,14 @@
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\bin\Debug\netstandard2.0\Morpion.deps.json
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\bin\Debug\netstandard2.0\Morpion.dll
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\bin\Debug\netstandard2.0\ref\Morpion.dll
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\bin\Debug\netstandard2.0\Morpion.pdb
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.csprojAssemblyReference.cache
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.AssemblyInfoInputs.cache
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.AssemblyInfo.cs
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.dll
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\ref\Morpion.dll
+C:\Users\Virus\Documents\Stage TP CDA\Xamarin\morpion\Morpion\Morpion\obj\Debug\netstandard2.0\Morpion.pdb
